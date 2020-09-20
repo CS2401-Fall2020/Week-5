@@ -46,6 +46,7 @@ Given a binary number as a `String` returns the value in octal using recursion.
 You cannot at any time represent the whole value in decimal, you should do directly from binary to octal. 
 Remember that 3 binary digits correspond to 1 octal digit directly (you can see this in the table above). 
 This solution **must** use recusion. 
+If the string contains unacceptable characters (i.e. not 0 or 1) return `null`. 
 
 ## `main`
 
