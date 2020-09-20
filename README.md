@@ -27,6 +27,7 @@ You will be asked to develop methods to:
 * convert octal (base 8, stored as a `String`) to decimal (base 10, stored as an `int`) 
 * convert from decimal to octal
 * convert from binary (base 2, stored as a `String`) to octal (directly without going through decimal)
+
 Just as we did in class you will create two new methods, this time in `convertOctal.java`.
 
 ## `octalStringToInt(String numString)`
