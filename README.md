@@ -51,7 +51,7 @@ If the string contains unacceptable characters (i.e. not 0 or 1) return `null`.
 
 ## `main`
 
-In a main method within `convertOctal.java` provide 14 tests that show your new methods satisfy all of the requirements. 
+In a main method within `convertOctal.java` provide 15 tests that show your new methods satisfy all of the requirements. 
 This can be done using print statements or built-in java assert statements (no need to use JUnit). 
 Each test should be clearly labeled within the main method, 
 and accompanied by text explaining the expected value for the test and why that test is included. 
